@@ -1,2 +1,2 @@
-# UniMiB-My-Notes
-Computer Science UniMiB - My university notes
+# Appunti Universitari
+Computer Science UniMiB
