@@ -1,7 +1,8 @@
 # 🎓 Appunti Universitari
 _Corso di studi triennale in scienze Inforrmatiche, UniMiB_
 
-_A.A. 2021/2022_
+_A.A. 2021/2022 - 1 anno_
+_A.A. 2022/2023 - 2 anno_
 
 
 ## ⚠️ DISCLAIMER
